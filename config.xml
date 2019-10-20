@@ -14,6 +14,9 @@
   
     <content src="index.html"/>
     <icon src="icon.png"/>
+    
+    <!-- minSdkVersion 版本設定 -->
+    <preference name="android-minSdkVersion" value="28"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-6.5.0" />
